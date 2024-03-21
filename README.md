@@ -1,6 +1,6 @@
 # Library-Management-System
-• C++ project that utilizes functions and vectors as data structures to operate different parts of a library.
+• Developed a search engine based on the user's input in C++ that used maps and sets as data structures that resulted in the practice of maps and sets.
 
-• The different parts include checking out a book, adding a book to the database, searching for a book, erasing all of the database, etc.
+• Included functions that used the different built-in functions for sets and maps to build the program.
 
-• Strong focus on the backend side of the program.
+• Used various built-in functions from the C++ standard library to get file input from the user.
